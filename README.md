@@ -67,6 +67,7 @@ db.Recursos.insertOne({
 ```js
 db.Recursos.find()
 ```
+![Texto alternativo](1.png)
 
 ---
 
@@ -83,6 +84,8 @@ db.Recursos.updateOne(
   }
 )
 ```
+![Texto alternativo](2.png)
+
 
 ---
 
@@ -91,6 +94,7 @@ db.Recursos.updateOne(
 ```js
 db.Recursos.deleteOne({ _id: "ID_DEL_RECURSO" })
 ```
+![Texto alternativo](3.png)
 
 ---
 
@@ -102,6 +106,7 @@ db.Recursos.deleteOne({ _id: "ID_DEL_RECURSO" })
 db.Recursos.find({ status: "Terminado" })
 // Otras opciones: "En progreso", "Pendiente"
 ```
+![Texto alternativo](4.png)
 
 ---
 
@@ -111,6 +116,7 @@ db.Recursos.find({ status: "Terminado" })
 db.Recursos.find({ format: "Libro" })
 // Otras opciones: "Serie", "Película"
 ```
+![Texto alternativo](5.png)
 
 ---
 
@@ -120,6 +126,7 @@ db.Recursos.find({ format: "Libro" })
 db.Recursos.find({ platform: "Netflix" })
 // Otras opciones: "Amazon Prime", "Disney+", etc.
 ```
+![Texto alternativo](6.png)
 
 ---
 
@@ -128,6 +135,7 @@ db.Recursos.find({ platform: "Netflix" })
 ```js
 db.Recursos.find({ name: "Nombre A Buscar" })
 ```
+![Texto alternativo](7.png)
 
 ---
 
