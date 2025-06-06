@@ -1,0 +1,300 @@
+[{
+  "_id": "f8d417e9-4629-4376-b209-0644f82d23a5",
+  "name": "Carlos López",
+  "email": "carlos.lopez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "2e772d1c-538b-4d28-91d1-24b9a744d8a9",
+  "name": "María Rodríguez",
+  "email": "maria.rodriguez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "b10b9392-9466-4149-b73a-ed570b110c63",
+  "name": "Juan Martínez",
+  "email": "juan.martinez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "d5df9eec-4de3-4e70-a1ef-d4d2cc4e1f3f",
+  "name": "Ana García",
+  "email": "ana.garcia@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "cbcbf7c5-61a1-4f83-a9b3-7cc7e5fd13c7",
+  "name": "Luis Fernández",
+  "email": "luis.fernandez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "e7a93818-149f-47c0-921c-13cd2c37f269",
+  "name": "Laura Gómez",
+  "email": "laura.gomez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "827e8e93-1118-4ad4-9c6e-bbd72d03d3b7",
+  "name": "Pedro Sánchez",
+  "email": "pedro.sanchez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "b6ab017c-95ee-43c3-bfcb-6c09fcbdf81d",
+  "name": "Sofía Díaz",
+  "email": "sofia.diaz@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "a6e5f991-dedb-4f4f-a004-dedf2cfa4f7d",
+  "name": "Miguel Torres",
+  "email": "miguel.torres@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "1fcfa4a3-d02b-4bba-8ae4-f7e4726bfc32",
+  "name": "Lucía Ramírez",
+  "email": "lucia.ramirez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "0a2b4e14-1cd9-493f-a3c4-643d39728a9b",
+  "name": "Andrés Vargas",
+  "email": "andres.vargas@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "b51b70e2-6a02-4206-8d9e-7c7631725b86",
+  "name": "Camila Herrera",
+  "email": "camila.herrera@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "c20e31db-f20e-4f10-b2cf-d8e0f91df67a",
+  "name": "Javier Castro",
+  "email": "javier.castro@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "6c3c94cd-7f92-4f7b-b360-0990244378a2",
+  "name": "Daniela Ríos",
+  "email": "daniela.rios@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "f71672c2-3a6d-474f-bf4c-617bb6c99c46",
+  "name": "Ricardo Navarro",
+  "email": "ricardo.navarro@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "14b0f9b5-1531-43b1-a4b5-2480734fdfb9",
+  "name": "Valentina Silva",
+  "email": "valentina.silva@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "21b1c42e-9d3c-4ee3-8655-cbd86182bca1",
+  "name": "Diego Moreno",
+  "email": "diego.moreno@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "0c4cf14e-3709-4707-a1f5-81684b1dd152",
+  "name": "Isabella Peña",
+  "email": "isabella.pena@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "f4e857c0-98dc-4a79-b81b-59bd87a021d3",
+  "name": "Sebastián Cruz",
+  "email": "sebastian.cruz@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "e4017b8c-4888-4030-a8b6-ec2f56ff2a6f",
+  "name": "Martina León",
+  "email": "martina.leon@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "3df6b876-e7e1-49e7-8c9b-86d92efc2251",
+  "name": "Tomás Paredes",
+  "email": "tomas.paredes@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "61195cb3-7883-44de-82fd-9c5b5fae5c3f",
+  "name": "Julieta Cordero",
+  "email": "julieta.cordero@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "a3c4e0de-9110-43a2-9efc-1f1b8b00212b",
+  "name": "Felipe Aguirre",
+  "email": "felipe.aguirre@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "9514cb3e-03b6-4696-8828-c98db7c8f4a5",
+  "name": "Renata Campos",
+  "email": "renata.campos@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "35f8ac53-8e80-4d9f-8e94-514db9d0f7ed",
+  "name": "Manuel Ibáñez",
+  "email": "manuel.ibanez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "e254d4e3-f33e-4091-8ce1-650e7861218a",
+  "name": "Natalia Figueroa",
+  "email": "natalia.figueroa@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "4bc937b4-962e-43bb-8b52-c02e69c9e2f6",
+  "name": "Esteban Bravo",
+  "email": "esteban.bravo@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "e8239394-f7ce-44c8-b3d0-12e63c3c2ea5",
+  "name": "Elena Arias",
+  "email": "elena.arias@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "6f5530c3-238f-42ea-924c-7c7f3f3921c3",
+  "name": "Gabriel Rojas",
+  "email": "gabriel.rojas@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "4fce72db-eaae-4874-8023-b1ebfba38f48",
+  "name": "Carolina Suárez",
+  "email": "carolina.suarez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "71c70f5e-d1b1-48ae-bf87-1bc2a2b3d03d",
+  "name": "Alejandro Medina",
+  "email": "alejandro.medina@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "6b5e40e4-1336-4c20-81cc-3426ebfcf3fd",
+  "name": "Fernanda Molina",
+  "email": "fernanda.molina@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "5d4b75d1-d55a-4e2a-841f-2a40133ae2ef",
+  "name": "Héctor Lozano",
+  "email": "hector.lozano@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "97a6ccf4-d285-4f0e-8d06-2c85904d4ebc",
+  "name": "Daniel Torres",
+  "email": "daniel.torres@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "e00ff91c-b844-4632-bf84-7f098f860b7a",
+  "name": "Valeria Carrillo",
+  "email": "valeria.carrillo@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "008f8e6b-62fd-4bfa-bac3-053e6c9384e4",
+  "name": "Rodrigo Méndez",
+  "email": "rodrigo.mendez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "ca49000a-13b5-4d60-837e-0602eafda5f3",
+  "name": "Jimena Salazar",
+  "email": "jimena.salazar@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "b5f6b7c1-e431-4b85-b7ee-2fd6d211aa2e",
+  "name": "Álvaro Domínguez",
+  "email": "alvaro.dominguez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "fbf6d02c-c0b5-4f78-8d6a-2e21ab0be54c",
+  "name": "Melina Ortiz",
+  "email": "melina.ortiz@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "e7986a19-02f1-4a40-8724-ff5e3c53cc3b",
+  "name": "Iván Reyes",
+  "email": "ivan.reyes@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "2a4b7f71-590e-4fa1-80db-48a31fa2bcd1",
+  "name": "Camila Herrera",
+  "email": "camila.herrera@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "7391b6e3-8592-4f3e-91c5-2d49d21829db",
+  "name": "Matías Gutiérrez",
+  "email": "matias.gutierrez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "2e81c58b-63a2-49e4-89d8-f4ab66d79045",
+  "name": "Lucía Márquez",
+  "email": "lucia.marquez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "8f3dd57b-8ab2-4e0a-9f6f-33c197ce0644",
+  "name": "Martín Peñaloza",
+  "email": "martin.penaloza@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "bbdfb297-5dfb-4f28-ae56-2c239ebf8855",
+  "name": "Sofía Narváez",
+  "email": "sofia.narvaez@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "49b6f2e4-f2c8-4cf2-a44f-059d82f7f515",
+  "name": "Leonardo Vera",
+  "email": "leonardo.vera@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "2cbf8f1b-d2c9-4a26-bbf6-88a7ec64a7a1",
+  "name": "Daniela Cruz",
+  "email": "daniela.cruz@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "d929f38b-bc30-41d4-8607-91a535a5f646",
+  "name": "Cristóbal León",
+  "email": "cristobal.leon@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "b8db6fc2-2e7b-4a86-bd24-143ef8cc1e01",
+  "name": "Isidora Navarro",
+  "email": "isidora.navarro@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+},
+{
+  "_id": "c17f41df-582e-43ae-8c07-50a2c63b7c59",
+  "name": "Agustín Rivas",
+  "email": "agustin.rivas@example.com",
+  "createdAt": "2024-05-01T12:00:00Z"
+}]
